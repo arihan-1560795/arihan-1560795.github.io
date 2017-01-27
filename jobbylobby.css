@@ -1,0 +1,36 @@
+/*Newbie and Apprentice*/
+body {
+	font-family: Helvetica, Arial;
+	letter-spacing: 2px;
+	background-image: url('cardboard.png');
+}
+
+legend {
+	font-size: 13.5pt;
+	font-weight: bold;
+}
+
+label {
+	color: #2B2B2B;
+}
+
+div {
+	margin-bottom: 10px;
+}
+
+ul, ol {
+	list-style-type: none;
+	padding-left: 0px;
+}
+
+/*Master*/
+
+input {
+	border-radius: 5px;
+	border: 1px solid gray;
+}
+
+body {
+  background-repeat: repeat; 
+
+}
